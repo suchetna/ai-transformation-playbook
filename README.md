@@ -1,2 +1,35 @@
-# ai-transformation-playbook
-A practical playbook for moving organisations from AI experimentation to AI-ready operating models.
+# AI Transformation Playbook
+
+A practical playbook for moving organizations from AI experimentation to AI-ready operating models.
+
+## Why this exists
+
+Most organizations do not have an AI tool problem. They have an operating-model problem: too many experiments, unclear ownership, weak governance, scattered workflows, and little connection between AI activity and business value.
+
+This repository is a working library of frameworks, templates, and operating ideas for leaders who want to make AI usable, governable, and adoptable inside real organizations.
+
+## What’s inside
+
+- AI readiness frameworks
+- Operating model blueprints
+- Use-case prioritization tools
+- Governance and guardrails templates
+- Prompt-system thinking for teams
+- Adoption and change-management assets
+
+## Who this is for
+
+- CTOs and transformation leaders
+- Product, operations, and marketing heads
+- Team leads running AI pilots
+- Consultants and enablement practitioners
+
+## Working principle
+
+Start with business friction, not model hype.
+
+## Created by
+
+Suchetana Bauri  
+AI Transformation Consultant  
+[suchetanabauri.com](https://suchetanabauri.com)
