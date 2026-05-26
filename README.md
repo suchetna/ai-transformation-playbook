@@ -20,9 +20,8 @@ This repository brings together practical thinking and working tools across six 
 - Adoption and champion programs
 
 ## Start here
-
 If you are new to this repository, begin with these three files:
-
+- [AI-Ready Operating Model Outline](./operating-models/ai-ready-operating-model-outline.md)
 - [AI Readiness Framework](./frameworks/ai-readiness-framework.md)
 - [AI Readiness Assessment Template](./templates/ai-readiness-assessment-template.md)
 - [AI Readiness Diagnostic](./checklists/ai-readiness-diagnostic.md)
@@ -96,6 +95,7 @@ This repository is designed for:
 - [Frameworks](./frameworks/ai-readiness-framework.md)
 - [Templates](./templates/ai-readiness-assessment-template.md)
 - [Checklists](./checklists/ai-readiness-diagnostic.md)
+- [Operating models](./operating-models/ai-ready-operating-model-outline.md)
 
 ## Related repositories
 
