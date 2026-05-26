@@ -1,14 +1,16 @@
 # AI Transformation Playbook
 
-A practical playbook for moving organizations from AI experimentation to AI-ready operating models.
+A practical playbook for helping organizations move from AI experimentation to AI-ready operating models.
 
 ## Why this exists
 
-Most organizations do not have an AI tool problem. They have an operating-model problem: too many experiments, unclear ownership, weak governance, scattered workflows, and little connection between AI activity and business value.
+Many organizations do not have an AI tool problem. They have an operating-model problem: too many disconnected experiments, unclear ownership, weak governance, scattered workflows, and limited connection between AI activity and business value.
 
-This repository is a public working playbook for leaders who want to make AI usable, governable, and adoptable inside real organizations.
+This repository is a public working playbook for leaders, operators, and consultants who want to make AI usable, governable, and adoptable inside real organizations.
 
 ## What this playbook covers
+
+This repository brings together practical thinking and working tools across six core areas:
 
 - AI readiness
 - Use-case prioritization
@@ -19,47 +21,69 @@ This repository is a public working playbook for leaders who want to make AI usa
 
 ## Start here
 
-If you are new to this repository, start with:
+If you are new to this repository, begin with these three files:
 
 - [AI Readiness Framework](./frameworks/ai-readiness-framework.md)
 - [AI Readiness Assessment Template](./templates/ai-readiness-assessment-template.md)
 - [AI Readiness Diagnostic](./checklists/ai-readiness-diagnostic.md)
 
+## How to use this repository
+
+Use this playbook in one of three ways:
+
+1. As a diagnostic starting point for understanding whether an organization is ready for broader AI adoption.
+2. As a working library of frameworks, templates, and checklists for shaping practical AI transformation work.
+3. As a hub that connects to deeper supporting repositories focused on use cases, workflow design, governance, prompt systems, and adoption.
+
 ## Playbook modules
 
 ### 1. Readiness
-Core question: is the organization ready to move beyond experiments?
 
+Core question: is the organization ready to move beyond scattered experimentation?
+
+Start with:
 - [AI Readiness Framework](./frameworks/ai-readiness-framework.md)
 - [AI Readiness Assessment Template](./templates/ai-readiness-assessment-template.md)
 - [AI Readiness Diagnostic](./checklists/ai-readiness-diagnostic.md)
 
 ### 2. Use-case strategy
+
 Core question: which AI opportunities are worth pursuing first?
 
+Related repository:
 - [Enterprise AI Use-Case Blueprints](https://github.com/suchetna/enterprise-ai-use-case-blueprints)
 
 ### 3. Workflow redesign
+
 Core question: how should workflows change when AI is introduced?
 
+Related repository:
 - [AI Workflow Redesign Lab](https://github.com/suchetna/ai-workflow-redesign-lab)
 
 ### 4. Governance
-Core question: what guardrails are needed for responsible use?
 
+Core question: what guardrails are needed for responsible and sustainable AI use?
+
+Related repository:
 - [AI Governance Guardrails Kit](https://github.com/suchetna/ai-governance-guardrails-kit)
 
 ### 5. Prompt systems
-Core question: how can teams build reusable prompts instead of one-off prompting?
 
+Core question: how can teams move from ad hoc prompting to reusable prompt systems?
+
+Related repository:
 - [Prompt Systems for Teams](https://github.com/suchetna/prompt-systems-for-teams)
 
 ### 6. Adoption
-Core question: how will teams actually adopt and sustain AI use?
 
+Core question: how will teams build confidence, capability, and repeatable usage over time?
+
+Related repository:
 - [AI Adoption Champion Kit](https://github.com/suchetna/ai-adoption-champion-kit)
 
 ## Who this is for
+
+This repository is designed for:
 
 - Transformation leaders
 - Strategy and operations teams
@@ -81,4 +105,6 @@ Core question: how will teams actually adopt and sustain AI use?
 - [Prompt Systems for Teams](https://github.com/suchetna/prompt-systems-for-teams)
 - [AI Adoption Champion Kit](https://github.com/suchetna/ai-adoption-champion-kit)
 
-  Restructure README as flagship hub
+## About
+
+Created by Suchetana Bauri as a public working library for AI transformation, workflow design, governance, and adoption.
