@@ -80,3 +80,5 @@ Core question: how will teams actually adopt and sustain AI use?
 - [AI Governance Guardrails Kit](https://github.com/suchetna/ai-governance-guardrails-kit)
 - [Prompt Systems for Teams](https://github.com/suchetna/prompt-systems-for-teams)
 - [AI Adoption Champion Kit](https://github.com/suchetna/ai-adoption-champion-kit)
+
+  Restructure README as flagship hub
