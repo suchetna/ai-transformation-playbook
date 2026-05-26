@@ -33,3 +33,9 @@
 ## Diagnostic question
 
 If AI tools disappeared tomorrow, would the organization lose a real capability, or just a collection of experiments?
+
+## Repository structure
+
+- [Frameworks](./frameworks/ai-readiness-framework.md)
+- [Templates](./templates/ai-readiness-assessment-template.md)
+- [Checklists](./checklists/ai-readiness-diagnostic.md)
